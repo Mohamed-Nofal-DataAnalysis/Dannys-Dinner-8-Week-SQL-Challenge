@@ -46,12 +46,4 @@ Run the schema + data
 Copy-paste any query
 Execute in SSMS or Azure Data Studio
 
-Performance Tips
-CREATE INDEX idx_sales_customer_date ON sales(customer_id, order_date);
-CREATE INDEX idx_sales_product ON sales(product_id);
 
-Contributing
-Found a better way? PR welcome! أضف حلك وهتتشهر
-License
-MIT © 2025 Mohamed Nofal – SQL Ninja
-Star this repo if you finally understood window functions!
