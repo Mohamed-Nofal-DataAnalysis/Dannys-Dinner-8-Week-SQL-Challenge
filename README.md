@@ -5,6 +5,7 @@
 ![Database](https://img.shields.io/badge/DB-Danny's%20Dinner-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/Mohamed-Nofal-DataAnalysis/Dannys-Dinner-8-Week-SQL-Challenge?style=social)
+# [SQL Queries](https://github.com/Mohamed-Nofal-DataAnalysis/BikeStores-Advanced-SQL-Window-Functions/blob/main/Part%202%20Using%20Northwind.sql)
 
 **The most complete, clean, and commented solution** for the legendary **Danny's Dinner 8-Week SQL Challenge** by Data With Danny.
 
